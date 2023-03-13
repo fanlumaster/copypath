@@ -1,10 +1,8 @@
 # copypath README
 
-This is the README for your extension "copypath". After writing up a brief description, we recommend including the following sections.
-
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+主要的功能是：复制当前文件的相对路径。这个可以给 cmake 作辅助。
 
 For example if there is an image subfolder under your extension project workspace:
 

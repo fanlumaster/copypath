@@ -12,10 +12,12 @@
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
-    "commands": [{
-      "command": "copypath.helloWorld",
-      "title": "Hello World"
-    }]
+    "commands": [
+      {
+        "command": "copypath.helloWorld",
+        "title": "Copy Path fanyfull"
+      }
+    ]
   },
   "scripts": {
     "lint": "eslint .",
