@@ -4,7 +4,11 @@
   "description": "To copy path of current file.",
   "version": "0.0.2",
   "publisher": "fanyfull",
-  "icon": "https://i.imgur.com/vIV2rim.png",
+  "icon": "images/copypathv1.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mubashar-javed/quick-snippets"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
